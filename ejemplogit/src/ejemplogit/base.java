@@ -4,7 +4,7 @@ public class base {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("vacio por 3);
+		System.out.println("max ejemplo");
 	}
 
 }
